@@ -1,5 +1,5 @@
 **Scroll Animation Project**
-An interactive scroll-based animation built using React, HTML5 Canvas, and SCSS. This project synchronizes scroll actions with an animated sequence of images, delivering a smooth and immersive experience. It's perfect for portfolios, creative websites, or modern landing pages.
+An interactive scroll-based animation built using React, HTML5 Canvas, and SCSS. This project synchronizes scroll actions with an animated sequence of images, delivering a smooth and immersive experience.
 
 
 **Features**
